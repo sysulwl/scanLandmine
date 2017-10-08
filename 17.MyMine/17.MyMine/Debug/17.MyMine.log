@@ -1,0 +1,4 @@
+﻿  17.MyMineView.cpp
+d:\vs_projects\17.mymine\17.mymine\17.mymineview.cpp(45): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  17.MyMine.vcxproj -> D:\vs_projects\17.MyMine\Debug\17.MyMine.exe
+  17.MyMine.vcxproj -> D:\vs_projects\17.MyMine\Debug\17.MyMine.pdb (Partial PDB)
